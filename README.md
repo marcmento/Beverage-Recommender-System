@@ -15,4 +15,4 @@ I then created an advanced model which used the LightFM library to make a model 
 After running each model on my test data I produced 5 result files that give a recommendation score from 0 - 5 with 5 being highly recommend. Results have been included. 
 
 ## Run
-To run these 5 models please ensure you have training, validation and test data in the same directory as the python file. For privacy reasons, I have not included my used data sets.
+To run these 5 models please ensure you have training, validation and test data in the same directory as the python file. Also please use the requirements file to load in the libraries needed for this model. For privacy reasons, I have not included my used data sets.
